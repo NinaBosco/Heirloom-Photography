@@ -1,0 +1,11 @@
+User Stories
+
+1. As a mom 
+I would like to contact a photographer for my family portraits.
+
+2. As a parent
+I would like to determine the kinds of photos I can sign up for.
+
+3. As a potential customer
+I would like to find the pricing of this service.
+

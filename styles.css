@@ -1,0 +1,52 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.page-header{
+    background-color: rgb(216, 199, 233);
+    padding-bottom: 0.5rem;
+}
+.logo{
+    text-transform: uppercase;
+    text-decoration:underline;
+}
+.navbar-nav{
+    text-transform: uppercase;
+    font-size: .75rem;
+    padding-left: 3rem;
+}
+.direction{
+    color: black;
+}
+.row{
+    font: weight 50px;
+    padding-top: 2rem;
+}
+.profile{
+    width: 35rem;
+}
+.questions{
+    padding-top: 1rem;
+
+}
+.faq-link{
+    padding-bottom: .25rem;
+    font-size: 1.5rem;
+}
+.testimonials{
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+    font-size:xx-large;
+    font-style:italic;
+}
+.links{
+    padding-bottom: 3rem;
+}
+h2{
+    font-family: cursive;
+    font-stretch: ultra-expanded;
+    padding-bottom: .5rem;
+    color: rgb(88, 48, 88);
+}
+.form-control{
+    background-color: rgba(187, 121, 157, 0.212);
+}
